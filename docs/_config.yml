@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: Jekyll Tutorial
+url: index.md
+description: This is a learning site
